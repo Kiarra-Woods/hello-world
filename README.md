@@ -6,3 +6,4 @@ When you click that find the two files you want to compare
 Then you will have to do @'insert username here' in the message and you should see it
 This is just a test as well 
 beep 
+
